@@ -1,2 +1,5 @@
 # Random-Forest
 Notebooks on Random Forest ensemble technique.
+
+Notebook 1 : RandomForestClassifier() class from scratch.
+___________________________________________________________________________________________________________________________________________________________________________________
