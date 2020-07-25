@@ -10,5 +10,5 @@ BOOSTING
 
 *Algorithm 1 : AdaBoost (Adaptive boosting)*
 
-Notebook 1 : AdaboostClassifier() class from scratch.
+Notebook 1 : AdaboostClassifier() class from scratch. Shows valid working example on a chosen query point.
 ___________________________________________________________________________________________________________________________________________________________________________________
